@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KINspace/common_template_web_gulp/issues"
   },
-  "homepage": "https://github.com/KINspace/common_template_web_gulp#readme"
+  "homepage": "https://github.com/KINspace/common_template_web_gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
